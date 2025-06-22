@@ -24,11 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Anonymous Pro",
-        body: {
-          name: "Anonymous Pro",
-          weights: [400, 700],
-          includeItalic: true,
-        },
+        body: "Anonymous Pro",
         code: "Anonymous Pro",
       },
       colors: {
