@@ -23,6 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
+        title: "Anonymous Pro",
         header: "Anonymous Pro",
         body: "Anonymous Pro",
         code: "Anonymous Pro",
