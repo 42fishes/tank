@@ -23,10 +23,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        title: "Courier Prime",
-        header: "Courier Prime",
-        body: "Courier Prime",
-        code: "Courier Prime",
+        title: "Anonymous Pro",
+        header: "Anonymous Pro",
+        body: "Anonymous Pro",
+        code: "Anonymous Pro",
       },
       colors: {
         lightMode: {
