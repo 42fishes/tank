@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Landing
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to **The Tank**, Rudy's Tank: a Quartz & Obsidian powered "blog" sort of thing. I don't know *exactly* what I plan on doing with this place but it's here and set up to be used. If you are here, hi. You are *very* early. :P 
+
